@@ -1,0 +1,4 @@
+name = "duckduckgo-mcp-js-worker"
+main = "src/index.js"
+compatibility_date = "2023-11-21"
+account_id = "Dependifyllc@gmail.com" 
